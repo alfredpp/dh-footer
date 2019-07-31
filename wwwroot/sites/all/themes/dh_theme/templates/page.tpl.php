@@ -189,8 +189,8 @@
           ));
           ?>
         </div>
-        <!-- <div class="clearfix">
-            <div class="accordion">
+        <div class="clearfix">
+          <!-- <div class="accordion">
 
               <p style="cursor: pointer;"><a target="_blank" href="https://www.deccanherald.com/nation"> National</a> <span class="side-nav-list__items--accordion-cta" style="display: none;"></span></p>
               <div class="newfooter_section_one_firstblocks" style="">
@@ -297,9 +297,13 @@
                   <li><a target="_blank" href="https://www.deccanherald.com/entertainment/arts-books-culture">Arts, Books &amp; Culture</a></li>
                 </ul>
               </div>
-            </div>
+            </div> -->
 
-          </div> -->
+          <?php
+          print $footer_menu_op;
+          ?>
+
+        </div>
 
 
         <div class="clearfix newfooter_m-t_specials">
@@ -422,7 +426,22 @@
 
   </div>
 
+  <script>
+    var acc = document.getElementsByClassName("accordion");
+    var i;
 
+    for (i = 0; i < acc.length; i++) {
+      acc[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        var panel = this.nextElementSibling;
+        if (panel.style.maxHeight) {
+          panel.style.maxHeight = null;
+        } else {
+          panel.style.maxHeight = panel.scrollHeight + "px";
+        }
+      });
+    }
+  </script>
   <?php if (!empty($page['footer'])) : ?>
     <?php print render($page['footer']); ?>
   <?php endif; ?>

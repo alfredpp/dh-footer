@@ -1,3 +1,6 @@
+#footer-wrapper {
+  padding: 0 !important;
+}
 .clearfix::after {
     content: "";
     clear: both;
