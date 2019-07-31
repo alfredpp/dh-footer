@@ -1,0 +1,9 @@
+name: dh
+recipe: drupal7
+config:
+  webroot: wwwroot
+tooling:
+  drush:
+    service: appserver
+    cmd:
+      - "drush --root=/app/wwwroot"
