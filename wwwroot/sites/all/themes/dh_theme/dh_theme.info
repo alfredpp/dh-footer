@@ -2,7 +2,7 @@ name = 'DH Theme'
 description = 'A Drupal Bootstrap 3 based sub-theme.'
 core = 7.x
 base theme = bootstrap
-php = 7.2.20
+php = 7.2
 
 
 ;;;;;;;;;;;;;;;;;;;;;
