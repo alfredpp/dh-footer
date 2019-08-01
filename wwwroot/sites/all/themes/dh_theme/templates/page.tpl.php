@@ -190,114 +190,6 @@
           ?>
         </div>
         <div class="clearfix">
-          <!-- <div class="accordion">
-
-              <p style="cursor: pointer;"><a target="_blank" href="https://www.deccanherald.com/nation"> National</a> <span class="side-nav-list__items--accordion-cta" style="display: none;"></span></p>
-              <div class="newfooter_section_one_firstblocks" style="">
-                <ul>
-                  <li><a target="_blank" href="https://www.deccanherald.com/nation/national-politics">Politics</a></li>
-                  <li><a target="_blank" href="https://www.deccanherald.com/nation/north-central">North and Central</a></li>
-                  <li><a target="_blank" href="https://www.deccanherald.com/south">South</a></li>
-                  <li><a target="_blank" href="https://www.deccanherald.com/nation/east-and-northeast">East and Northeast</a></li>
-                  <li><a target="_blank" href="https://www.deccanherald.com/nation/west">West</a></li>
-                </ul>
-              </div>
-            </div>
-
-            <div class="accordion">
-
-              <p style="cursor: pointer;"><a target="_blank" href="https://www.deccanherald.com/karnataka"> Karnataka</a> <span class="side-nav-list__items--accordion-cta collapsed" style="display: none;"></span></p>
-              <div class="newfooter_section_one_firstblocks" style="">
-                <ul>
-                  <li><a target="_blank" href="https://www.deccanherald.com/state/top-karnataka-stories-sec">Top Stories</a></li>
-                  <li><a target="_blank" href="https://www.deccanherald.com/state/politics-sec">Politics</a></li>
-                  <li><a target="_blank" href="https://www.deccanherald.com/state/districts-sec">Districts</a></li>
-                </ul>
-              </div>
-            </div>
-
-            <div class="accordion">
-
-              <p style="cursor: pointer;"><a target="_blank" href="https://www.deccanherald.com/bengaluru"> Bengaluru</a> <span class="side-nav-list__items--accordion-cta collapsed" style="display: none;"></span></p>
-              <div class="newfooter_section_one_firstblocks" style="">
-                <ul>
-                  <li><a target="_blank" href="https://www.deccanherald.com/bengaluru/top-bengaluru-stories">Top Stories</a></li>
-                  <li><a target="_blank" href="https://www.deccanherald.com/bengaluru/crime">Bengaluru Crime</a></li>
-                  <li><a target="_blank" href="https://www.deccanherald.com/bengaluru/politics">Politics</a></li>
-                  <li><a target="_blank" href="https://www.deccanherald.com/bengaluru/infrastructure">Infrastructure</a></li>
-                  <li><a target="_blank" href="https://www.deccanherald.com/bengaluru/life-in-the-city">Life in the City</a></li>
-                </ul>
-              </div>
-            </div>
-
-            <div class="accordion">
-
-              <p style="cursor: pointer;"><a target="_blank" href="https://www.deccanherald.com/sports"> Sports</a> <span class="side-nav-list__items--accordion-cta" style="display: none;"></span></p>
-              <div class="newfooter_section_one_firstblocks" style="">
-                <ul>
-                  <li><a target="_blank" href="https://www.deccanherald.com/sports/cricket">Cricket</a></li>
-                  <li><a target="_blank" href="https://www.deccanherald.com/sports/cricket/icc-world-cup-2019.html">ICC World Cup 2019</a></li>
-                  <li><a target="_blank" href="https://www.deccanherald.com/sports/formula-1">Formula 1 with DH</a></li>
-                  <li><a target="_blank" href="https://www.deccanherald.com/sports/football">Football</a></li>
-                  <li><a target="_blank" href="https://www.deccanherald.com/sports/tennis">Tennis</a></li>
-                  <li><a target="_blank" href="https://www.deccanherald.com/sports/sportscene">Sportscene</a></li>
-                  <li><a target="_blank" href="https://www.deccanherald.com/sports/other-sports">Other Sports</a></li>
-                </ul>
-              </div>
-            </div>
-
-            <div class="accordion">
-
-              <p style="cursor: pointer;"><a target="_blank" href="https://www.deccanherald.com/business"> Business</a> <span class="side-nav-list__items--accordion-cta collapsed" style="display: none;"></span></p>
-              <div class="newfooter_section_one_firstblocks" style="">
-                <ul>
-                  <li><a target="_blank" href="https://www.deccanherald.com/business-sec">Business News</a></li>
-                  <li><a target="_blank" href="https://www.deccanherald.com/budget-2019">Budget 2019</a></li>
-                  <li><a target="_blank" href="https://www.deccanherald.com/economy-business">Economy &amp; Business</a></li>
-                  <li><a target="_blank" href="https://www.deccanherald.com/family-finance">Family Finance</a></li>
-                  <li><a target="_blank" href="https://www.deccanherald.com/technology">Technology</a></li>
-                  <li><a target="_blank" href="https://www.deccanherald.com/dh-wheels">DH Wheels</a></li>
-                </ul>
-              </div>
-            </div>
-
-            <div class="accordion">
-
-              <p style="cursor: pointer;">Multimedia<span class="side-nav-list__items--accordion-cta collapsed" style="display: none;"></span></p>
-              <div class="newfooter_section_one_firstblocks" style="">
-                <ul>
-                  <li><a target="_blank" href="https://www.deccanherald.com/video">Videos</a></li>
-                  <li><a target="_blank" href="https://www.deccanherald.com/photos">Photos</a></li>
-                </ul>
-              </div>
-            </div>
-
-            <div class="accordion">
-
-              <p style="cursor: pointer;"><a target="_blank" href="https://www.deccanherald.com/opinion-0"> Opinion</a> <span class="side-nav-list__items--accordion-cta collapsed" style="display: none;"></span></p>
-              <div class="newfooter_section_one_firstblocks" style="">
-                <ul>
-                  <li><a target="_blank" href="https://www.deccanherald.com/Opinion">DH Views</a></li>
-                  <li><a target="_blank" href="https://www.deccanherald.com/first-edit">Editorials</a></li>
-                  <li><a target="_blank" href="https://www.deccanherald.com/panorama">Panorama</a></li>
-                  <li><a target="_blank" href="https://www.deccanherald.com/main-article">Comment</a></li>
-                  <li><a target="_blank" href="https://www.deccanherald.com/perspective">In Perspective</a></li>
-                  <li><a target="_blank" href="https://www.deccanherald.com/right-middle">Right in the Middle</a></li>
-                </ul>
-              </div>
-            </div>
-
-            <div class="accordion">
-
-              <p style="cursor: pointer;"><a target="_blank" href="https://www.deccanherald.com/entertainment"> Entertainment</a> <span class="side-nav-list__items--accordion-cta collapsed" style="display: none;"></span></p>
-              <div class="newfooter_section_one_firstblocks" style="">
-                <ul>
-                  <li><a target="_blank" href="https://www.deccanherald.com/entertainment-cat">Entertainment News</a></li>
-                  <li><a target="_blank" href="https://www.deccanherald.com/DH-Talkies">DH Talkies</a></li>
-                  <li><a target="_blank" href="https://www.deccanherald.com/entertainment/arts-books-culture">Arts, Books &amp; Culture</a></li>
-                </ul>
-              </div>
-            </div> -->
 
           <?php
           print $footer_menu_op;
@@ -426,22 +318,6 @@
 
   </div>
 
-  <script>
-    var acc = document.getElementsByClassName("accordion");
-    var i;
-
-    for (i = 0; i < acc.length; i++) {
-      acc[i].addEventListener("click", function() {
-        this.classList.toggle("active");
-        var panel = this.nextElementSibling;
-        if (panel.style.maxHeight) {
-          panel.style.maxHeight = null;
-        } else {
-          panel.style.maxHeight = panel.scrollHeight + "px";
-        }
-      });
-    }
-  </script>
   <?php if (!empty($page['footer'])) : ?>
     <?php print render($page['footer']); ?>
   <?php endif; ?>

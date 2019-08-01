@@ -7,6 +7,17 @@
     display: table;
 }
 
+#accordion-menu .panel {
+    background-color: #0072bc;
+}
+
+@media (min-width: 768px) {
+  .collapse.dont-collapse-sm {
+    display: block;
+    height: auto !important;
+    visibility: visible;
+  }
+}
 /*common css */
 
 .newfooter_section_one a, .newfooter_section_one p ,  .newfooter_section_one li {
@@ -384,6 +395,10 @@
         margin-left: auto;
         padding-left: 0px;
         padding-right: 0px;
+    }
+    .newfooter_section_one_firstblocks {
+        display: block !important;
+        transition: none;
     }
 }
 
